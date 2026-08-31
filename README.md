@@ -98,27 +98,6 @@ A multimodal clinical depression screening system combining NLP, audio processin
 
 ---
 
-## 💼 Experience
-
-### Community Intern — Rotary Club of Rohtak Sapphire
-
-**June 2024 – July 2024**
-
-- Participated in community development and social welfare initiatives
-- Gained experience in grassroots NGO work, leadership and team collaboration
-
----
-
-## 👨‍💻 Leadership
-
-### Class Representative — NSUT
-
-**January 2024 – July 2026**
-
-- Represented a class of **81 students**
-- Acted as a bridge between students and faculty
-- Addressed student concerns and facilitated communication with college administration
-
 ---
 
 ## 📊 GitHub Stats
@@ -135,8 +114,6 @@ A multimodal clinical depression screening system combining NLP, audio processin
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=parthranjan9&hide_border=true" />
 </p>
-
----
 
 ## 📫 Connect With Me
 
