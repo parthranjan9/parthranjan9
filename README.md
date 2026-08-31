@@ -14,7 +14,7 @@ I enjoy building intelligent systems, experimenting with ML/DL architectures, an
 - 🤖 Interested in **Machine Learning, Deep Learning & AI**
 - 🧠 Exploring **NLP, LLMs, RAG & Quantum Machine Learning**
 - 💻 Strong interest in **Data Structures & Algorithms**
-- 🏆 Solved **250+ DSA / Competitive Programming problems**
+- 🏆 Solved **350+ DSA / Competitive Programming problems**
 - 🔬 Worked on research-oriented projects involving **Medical AI & Multimodal Learning**
 - 🌱 Currently expanding my knowledge of **AI systems and scalable software**
 
