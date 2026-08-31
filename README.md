@@ -94,7 +94,7 @@ A multimodal clinical depression screening system combining NLP, audio processin
 
 - 🥇 **Gold Medal — International Mathematics Olympiad (SOF)**
 - 🥇 **Gold Medal — National Science Olympiad (SOF)**
-- 💻 **250+ DSA / Competitive Programming problems solved**
+- 💻 **350+ DSA / Competitive Programming problems solved**
 
 ---
 
